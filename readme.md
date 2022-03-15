@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 - Run the development server or (go to production instruction below):
 
 ```bash
-flask run --host=0.0.0.0:5000
+flask run --host=localhost
 
 Open [http://localhost:5000](http://localhost:5000) with your browser to see the result.
 
